@@ -1,4 +1,4 @@
-#Proyecto JavaScipt mensajes aleatorios
+# Proyecto JavaScipt mensajes aleatorios
 
 **¿En que consiste este proyecto?**
 - Poner el practica el uso de bash y manejo de commits.
