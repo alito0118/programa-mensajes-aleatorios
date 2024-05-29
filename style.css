@@ -1,0 +1,40 @@
+body{
+    background-color: aquamarine;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: auto;
+    height: 400px;
+    align-content: center;
+    color: black;
+}
+
+h1{
+    display: flex;
+    width: auto;
+    justify-content: center;
+    align-content: center;
+    border: solid black;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    display: flex;
+    border: solid black;
+}
+
+button {
+    transition-duration: 0.4s;
+    width: 5%;
+    margin-left: 47.5%;
+    
+  }
+  
+button:hover {
+    background-color: white;
+    color: black;
+  }
